@@ -1,4 +1,8 @@
-# mnist_nn
-This is a replicate of https://github.com/mnielsen/neural-networks-and-deep-learning
-I have relized the SGD by my self with a function RGD,
-In next version, I will try to realize the neural network by my self
+This file I imitate the Author of http://neuralnetworksanddeeplearning.com/
+And I realize it by reference the http://ufldl.stanford.edu/wiki/index.php
+Author:	Lowell
+Email:	Jhonjoe.c@gmail.com
+To run the program, just run the test_nn.py file on your system
+Recommended envoriment:
+python2.7
+numpy
